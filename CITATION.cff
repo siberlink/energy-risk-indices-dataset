@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Global Energy Risk Indices Dataset (GERI, EERI, EGSI)"
+message: "If you use this dataset, please cite EnergyRiskIQ."
+type: dataset
+authors:
+  - name: "EnergyRiskIQ"
+year: 2026
+url: "https://energyriskiq.com"
+license: "CC-BY-4.0"
+keywords:
+  - energy risk
+  - geopolitical risk
+  - energy markets
+  - gas stress
+  - GERI
+  - EERI
+  - EGSI
